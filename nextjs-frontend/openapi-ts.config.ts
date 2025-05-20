@@ -14,3 +14,4 @@ export default defineConfig({
     path: "app/openapi-client",
   },
 });
+

@@ -1,7 +1,4 @@
 #!/bin/bash
-
 pnpm run dev &
-
-node watcher.js
-
+node watcher.ts
 wait
